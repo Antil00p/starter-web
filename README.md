@@ -10,4 +10,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## New section
-Hi, I'm a new section
+Hi, I'm a new section! :D
+
+## Deployment
+More pretty text :)
