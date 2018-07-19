@@ -14,3 +14,6 @@ Hi, I'm a new section! :D
 
 ## Deployment
 More pretty text :)
+
+### Copyright
+Halolo
