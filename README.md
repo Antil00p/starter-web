@@ -18,7 +18,7 @@ Hi, I'm a new section! :D
 More pretty text :)
 
 ### Copyright
-Halolo
+Halolo. Such serious text. Much serious. So boring.
 
 ###Durp
 Cow Mu?
