@@ -1,0 +1,3 @@
+This is a new file. New files are good.
+
+Maybe it is a treasure map? You never know...
